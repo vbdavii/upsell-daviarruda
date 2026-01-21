@@ -31,7 +31,7 @@ function App() {
 
         {/* 3. Botão */}
         <a 
-          href="https://pay.cakto.com.br/pn4zx2q_719794"
+          href="https://pay.daviarruda.com/checkout/v4/eZb4QoJCpug7SVk9ttK1"
           className="animate-cta-pulse bg-white hover:bg-gray-100 text-black font-black text-xl md:text-2xl py-6 px-12 rounded-lg shadow-[0_0_30px_rgba(255,255,255,0.3)] transition-all duration-300 flex items-center gap-3 uppercase tracking-wider group"
         >
           VER OFERTA
